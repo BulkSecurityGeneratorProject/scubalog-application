@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ScubaDiveLog",
+    "packageName": "net.mikecarr.scuba",
+    "packageFolder": "net/mikecarr/scuba",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "NzNiZjgzMzI1M2JlOWI1NzBmMDRlM2I5NmRlNjhkOTQ5MjkxNDA1NmZmY2YyOTk3YWE2MTQ0ZWUzODQyZTY5MWU4MTc3ODhiMGQ0Mzg3MjIzMjkwNDU5NWU2MjRlOGY2ZjZlZmE1OGNhNDhhOTUwYjkxYjBjZTMyYzNhYjAwOTk=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "mikecarr",
+  "repository-name": "scubalog-application"
+}
